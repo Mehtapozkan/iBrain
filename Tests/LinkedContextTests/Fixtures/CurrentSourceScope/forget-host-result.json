@@ -1,0 +1,1 @@
+{"hostSeconds":3.8155076250000004,"response":{"elapsedSeconds":2.6795923750000004,"model":"gpt-6.1-sol","outputJSON":"{\"decision\":{\"kind\":\"clarify\",\"reason\":\"target\"}}","provider":"pin-native-subscription","requestSHA256":"fdf0e64a882081e4a4fb59b4d3d1a1483529d7e47d8ab1d32f7188720d2b16f7"},"status":200}
