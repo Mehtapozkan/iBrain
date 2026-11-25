@@ -1,0 +1,7 @@
+{
+  "elapsedSeconds" : 0,
+  "model" : "AUTHORED",
+  "outputJSON" : "{\"decision\":{\"changeFields\":\"none\",\"evidenceFacets\":[],\"evidenceScope\":\"printedOwnSource\",\"kind\":\"contextual\",\"operation\":\"details\",\"requestedDetails\":[\"venue\",\"venueAddress\"],\"target\":\"unit_0_member_0\"}}",
+  "provider" : "AUTHORED-NOT-INFERENCE",
+  "requestSHA256" : "d0e15410eb542fbdc1ce63020a1680e38842c49d1fdbde4fbe3bb6c31122788a"
+}
